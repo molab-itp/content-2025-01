@@ -46,24 +46,31 @@ We aim to create distributed instruments for computed expression.
 
 - [Swift Programming history](<https://en.wikipedia.org/wiki/Swift_(programming_language)>)
 - [changes](https://www.hackingwithswift.com/swift)
+- an evolving language:
 
   - 2024 Swift 6.0 September 16, 2024
-  - 2024 Swift 5.10.1 June 5, 2024
+  <!-- - 2024 Swift 5.10.1 June 5, 2024 -->
   - 2023 Swift 5.9.2 December 11, 2023
-  - 2022 Swift 5.7.1 November 1, 2022
+  <!-- - 2022 Swift 5.7.1 November 1, 2022
   - 2021 Swift 5.5.2 December 14, 2021
-  - 2020 Swift 5.3.2 December 15, 2020
+  - 2020 Swift 5.3.2 December 15, 2020 -->
   - 2019 Swift 5.1.3 December 13, 2019
-  - 2019 Swift 5.0 March 25, 2019
+  <!-- - 2019 Swift 5.0 March 25, 2019 -->
   - 2018 Swift 4.2.1 October 30, 2018
-  - 2017 Swift 4.0 September 19, 2017
+  <!-- - 2017 Swift 4.0 September 19, 2017 -->
   - 2016 Swift 3.0 September 13, 2016
   - 2015 Swift 2.0 September 21, 2015
   - 2014 Swift 1.0 September 9, 2014
 
 - SwiftUI
+  - introduced at WWDC 2019
+  - similar to react
 
-  - WWDC 2019
+## Alternatives
+
+- [Flutter/Dart -- Build for any screen](https://flutter.dev/)
+- [React Native -- Learn once, write anywhere](https://reactnative.dev/)
+- [NativeScript -- Empower JavaScript with native APIs](https://nativescript.org/)
 
 ## Resources - Swift
 
