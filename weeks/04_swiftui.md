@@ -61,53 +61,53 @@ Prune to 16.4 and 17.2
 
   - Encapsulate view-specific data within your app’s view hierarchy to make your views reusable.
 
-### monitoring-model-data
+### data modeling
 
-- [monitoring-model-data](https://developer.apple.com/documentation/swiftui/monitoring-model-data-changes-in-your-app)
+- [iOS 17 data modeling](https://developer.apple.com/documentation/swiftui/managing-model-data-in-your-app) -->
+
+<!-- - [monitoring-model-data](https://developer.apple.com/documentation/swiftui/monitoring-model-data-changes-in-your-app) -->
 
 #### the basics
 
-- ObservableObject
-- @Published
-- @StateObject
+- @Observable
+- @State
 
 ```
-class DataModel: ObservableObject {
-    @Published var name = "Some Name"
+@Observable
+class DataModel {
+    var name = "Some Name"
 
-    @StateObject private var model = DataModel() // Create the state object.
+    @State private var model = DataModel() // Create the state object.
 ```
 
 #### sharing data between views
 
-- environmentObject
-- @EnvironmentObject
-- @ObservedObject
+- environment(
+- @Environment(
+- @Bindable
 
 ```
 struct BookReaderApp: App {
-    @StateObject private var library = Library()
+    @State private var library = Library()
     LibraryView()
-        .environmentObject(library)
+        .environment(library)
 
-class Library: ObservableObject {
-    @Published var books: [Book] = [Book(), Book(), Book()]
-
-class Book: ObservableObject, Identifiable {
-    @Published var title = "Sample Book Title"
+@Observable
+class Library {
+    var books: [Book] = [Book(), Book(), Book()]
 
 struct LibraryView: View {
-    @EnvironmentObject var library: Library
+    @Environment(Library.self) var library: Library
 
-struct LibraryView_Previews: PreviewProvider {
-        LibraryView()
-            .environmentObject(Library())
+@Preview {
+    LibraryView()
+        .environment(Library())
 
 struct BookView: View {
-    @ObservedObject var book: Book
+    var book: Book
 
 struct BookEditView: View {
-    @ObservedObject var book: Book
+     @Bindable var book: Book
 
 ```
 
@@ -122,6 +122,7 @@ struct BookEditView: View {
 
 - [04-Audio-State-Demo](https://github.com/molab-itp/04-Audio-State-Demo)
 
+  - Demonstration of using AVAudioPlayer to play both internal and web based audio files
   - [AVAudioPlayer docs](https://developer.apple.com/documentation/avfaudio/avaudioplayer)
 
 - [04-SlideShowDemo](https://github.com/molab-itp/04-SlideShowDemo)
@@ -139,10 +140,12 @@ struct BookEditView: View {
 
 - document your progress and questions on your wiki page
 
-# Warning! data modeling updated for iOS 17
+# iOS 16 data modeling
 
-- [iOS 17 data modeling](https://developer.apple.com/documentation/swiftui/managing-model-data-in-your-app)
+- Warning! data modeling updated for iOS 17
+- Projects that use ObservableObject must be updated
 
+- [iOS 16 data modeling](./04_ObservableObject.md);
 - [Migrating to iOS 17](https://developer.apple.com/documentation/swiftui/migrating-from-the-observable-object-protocol-to-the-observable-macro)
 
 # Final Project Inspiration and Resources

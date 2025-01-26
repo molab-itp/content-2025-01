@@ -62,6 +62,21 @@ source ~/.zshrc
 
 ```
 
+### global .gitignore
+
+```
+
+# keep unneeded files out of repo
+
+# create global .gitignore in user home directory
+cd ~
+nano .gitignore
+.DS_Store
+**/xcuserdata/
+node_modules
+
+```
+
 ## review
 
 - [github.com/molab-itp](https://github.com/molab-itp) Our class repos

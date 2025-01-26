@@ -62,7 +62,14 @@ what came before SwiftUI
   - build to your iphone
 - [03-ImageUiDemo-2-urls](https://github.com/molab-itp/03-ImageUiDemo-2-urls)
 
-- [03-UIGraphics-View](https://github.com/molab-itp/03-UIGraphics-View)
+- [03-Canvas-Explore](https://github.com/molab-itp/03-Canvas-Explore)
+
+  - explore SwiftUI Canvas and TimelineView for computed graphic animation
+
+- [03-ClockRemake](https://github.com/molab-itp/03-ClockRemake)
+  - Using Canvas to recreate the design used for the Clock app
+
+<!-- - [03-UIGraphics-View](https://github.com/molab-itp/03-UIGraphics-View) -->
 
 <!-- - [camera-app-with-swiftui-and-combine](https://www.kodeco.com/26244793-building-a-camera-app-with-swiftui-and-combine) -->
 
