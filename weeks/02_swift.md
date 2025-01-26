@@ -70,7 +70,7 @@ source ~/.zshrc
 
 # create global .gitignore in user home directory
 cd ~
-nano .gitignore
+code .gitignore
 .DS_Store
 **/xcuserdata/
 node_modules
@@ -150,10 +150,15 @@ node_modules
 
 - create a folder named Week02 in your class repo to store this weeks homework
 
-- create an Xcode playground that creates an image using ascii text based on the techniques demonstrated in
-  [02-Ascii-Play](https://github.com/molab-itp/02-Ascii-Play)
-- OR: create an Xcode playground that makes an 1024x1024 image based on the techniques demonstrated in
-  [01-UIRender-playground](https://github.com/molab-itp/01-UIRender-playground)
+- Option 1:
+
+  - create an Xcode playground that creates an image using ascii text based on the techniques demonstrated in
+    [02-Ascii-Play](https://github.com/molab-itp/02-Ascii-Play)
+
+- Option 2:
+
+  - create an Xcode playground that makes an 1024x1024 image based on the techniques demonstrated in
+    [01-UIRender-playground](https://github.com/molab-itp/01-UIRender-playground)
 
 - add a link to your Week02 folder on the
 
