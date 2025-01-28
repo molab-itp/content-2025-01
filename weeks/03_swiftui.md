@@ -52,15 +52,19 @@ what came before SwiftUI
 
 - build to simulator and to your device
 
-- [03-About-Me](https://github.com/molab-itp/03-About-Me)
+<!-- - [03-About-Me](https://github.com/molab-itp/03-About-Me)
 
   - [sample-apps/aboutme - tutorial](https://developer.apple.com/tutorials/sample-apps/aboutme)
   - requires the latest version of the [Swift Playgrounds App](https://www.apple.com/swift/playgrounds/), runs on macOS and iPad
-  - extract source for Xcode using Finder option "Show Package Contents"
+  - extract source for Xcode using Finder option "Show Package Contents" -->
 
 - [03-ImageUiDemo-1-symbols](https://github.com/molab-itp/03-ImageUiDemo-1-symbols)
-  - build to your iphone
+
+  - Using Image systemName symbols to demonstrate SwiftUI
+
 - [03-ImageUiDemo-2-urls](https://github.com/molab-itp/03-ImageUiDemo-2-urls)
+
+  - Using NavigationView to create list of images references using URL
 
 - [03-Canvas-Explore](https://github.com/molab-itp/03-Canvas-Explore)
 
@@ -92,7 +96,8 @@ Part 1.
 - create a single view SwiftUI app that produces image that is composed of some random elements
 
   - similar to 10print in
-    - [01-UIRender-playground](https://github.com/molab-itp/01-UIRender-playground)
+  - [03-Canvas-Explore](https://github.com/molab-itp/03-Canvas-Explore)
+    <!-- - [01-UIRender-playground](https://github.com/molab-itp/01-UIRender-playground) -->
   - make use of arrays and random numbers
   - ok to run in simulator
 
