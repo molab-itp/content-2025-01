@@ -29,6 +29,7 @@ remove duplicate
 ```
 
 - Xcode Tips video
+  - [Xcode + ChatGPT](https://www.youtube.com/watch?v=zhRyjt6jwPs)
   - [31 Xcode Tips & Tricks - 2023](https://www.youtube.com/watch?v=40imnmzsmxk&list=PL8seg1JPkqgEM8oeVghYq_-Go1pVhTGko&index=3)
 
 ## Playground review
