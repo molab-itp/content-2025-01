@@ -48,6 +48,43 @@ what came before SwiftUI
 - https://developer.apple.com/documentation/swiftui/
   - ios 13.0+
 
+## Resources (from last week)
+
+- [markdownguide quick summary](https://www.markdownguide.org/cheat-sheet/)
+
+- [docs.swift.org - A Swift Tour](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour/)
+- [Optional-Binding](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics#Optional-Binding)
+
+## Swift Langage Resources
+
+<!-- - [Developer App](https://apps.apple.com/us/app/apple-developer/id640199958) -->
+
+- google / chat-G: "hacking with swiftui **topic**"
+
+- [swift-cookbook](https://www.kodeco.com/books/swift-cookbook/v1.0/)
+
+### test your Swift skills
+
+- [unwrap app](https://apps.apple.com/us/app/unwrap/id1440611372)
+- works on iPhone iOS and macOS desktops with Apple silicon
+
+### SwiftUI Resources
+
+- [wwdc19 Introducing SwiftUI: Building Your First App](https://wwdcnotes.com/documentation/wwdcnotes/wwdc19-204-introducing-swiftui-building-your-first-app)
+
+- [apple documentation swiftui](https://developer.apple.com/documentation/swiftui/)
+
+- [WWDC 2019 Introducing SwiftUI: Building Your First App](https://developer.apple.com/videos/play/wwdc2019/204/) ~ 55min
+
+- [Introducing SwiftUI](https://developer.apple.com/tutorials/swiftui) complete up to but not including [interfacing-with-uikit](https://developer.apple.com/tutorials/swiftui/interfacing-with-uikit) - 4hr 25min Estimated Time
+
+<!-- - [InterfacingWithUIKit.zip](https://docs-assets.developer.apple.com/published/242e2bc4bd32f82ad6c54ca5cd01f222/15600/InterfacingWithUIKit.zip) -->
+
+- [hackingwithswift](https://www.hackingwithswift.com/books/ios-swiftui)
+  - [github hackingwithswift](https://github.com/twostraws/hackingwithswift)
+  - project based, select the project(s) that you find interesting
+- [www.hackingwithswift.com -- 100 days of swiftui](https://www.hackingwithswift.com/100/swiftui)
+
 ## SwiftUI Example Repo
 
 - build to simulator and to your device
@@ -115,38 +152,6 @@ Part 2. begin research on your final project
     - [What’s new in SwiftUI](https://wwdcnotes.com/documentation/wwdcnotes/wwdc23-10148-whats-new-in-swiftui)
       <!-- - [Prototype with Xcode Playgrounds](https://www.wwdcnotes.com/notes/wwdc23/10250/) -->
       <!-- - [SwiftUI Essentials](https://www.wwdcnotes.com/notes/wwdc19/216/) -->
-
-## Resources
-
-- [Developer App](https://apps.apple.com/us/app/apple-developer/id640199958)
-
-- google / chat-G: "hacking with swiftui **topic**"
-
-- [swift-cookbook](https://www.kodeco.com/books/swift-cookbook/v1.0/)
-
-### test your Swift skills
-
-- [unwrap app](https://apps.apple.com/us/app/unwrap/id1440611372)
-- works on iPhone iOS and macOS desktops with Apple silicon
-
-### SwiftUI App Resources
-
-- [wwdc19 Introducing SwiftUI: Building Your First App](https://wwdcnotes.com/documentation/wwdcnotes/wwdc19-204-introducing-swiftui-building-your-first-app)
-
-- [apple documentation swiftui](https://developer.apple.com/documentation/swiftui/)
-
-- [WWDC 2019 Introducing SwiftUI: Building Your First App](https://developer.apple.com/videos/play/wwdc2019/204/) ~ 55min
-
-- [Introducing SwiftUI](https://developer.apple.com/tutorials/swiftui) complete up to but not including [interfacing-with-uikit](https://developer.apple.com/tutorials/swiftui/interfacing-with-uikit) - 4hr 25min Estimated Time
-
-<!-- - [InterfacingWithUIKit.zip](https://docs-assets.developer.apple.com/published/242e2bc4bd32f82ad6c54ca5cd01f222/15600/InterfacingWithUIKit.zip) -->
-
-- [hackingwithswift](https://www.hackingwithswift.com/books/ios-swiftui)
-  - [github hackingwithswift](https://github.com/twostraws/hackingwithswift)
-  - project based, select the project(s) that you find interesting
-- [www.hackingwithswift.com -- 100 days of swiftui](https://www.hackingwithswift.com/100/swiftui)
-
-- [swift-student-challenge](https://developer.apple.com/swift-student-challenge/)
 
 ### Featured Prior Final Projects
 
