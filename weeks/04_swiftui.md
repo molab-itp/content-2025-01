@@ -2,7 +2,20 @@
 
 ## [[Previous](./03_swiftui.md)] [[Next](./05_data.md)]
 
-# Review
+## Legacy code
+
+## UIKit & Storyboard UI
+
+what came before SwiftUI
+
+- https://developer.apple.com/documentation/uikit
+
+  - ios 2.0+
+
+- https://developer.apple.com/documentation/swiftui/
+  - ios 13.0+
+
+## Review
 
 - [03-closures-ints-strings](https://github.com/molab-itp/03-closures-ints-strings)
 
