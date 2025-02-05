@@ -80,10 +80,10 @@
 
 - Review Final Project Inspiration from previous weeks
 
-### wwdcnotes.com
+<!-- ### wwdcnotes.com
 
 - [wwdcnotes.com](https://www.wwdcnotes.com/about/)
-  - WWDC Notes is an open-source and community-driven effort to collect notes for all Apple's WWDC videos.
+  - WWDC Notes is an open-source and community-driven effort to collect notes for all Apple's WWDC videos. -->
 
 ### WWDC Video Tutorials
 
