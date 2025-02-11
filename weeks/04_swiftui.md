@@ -2,19 +2,6 @@
 
 ## [[Previous](./03_swiftui.md)] [[Next](./05_data.md)]
 
-## Legacy code
-
-## UIKit & Storyboard UI
-
-what came before SwiftUI
-
-- https://developer.apple.com/documentation/uikit
-
-  - ios 2.0+
-
-- https://developer.apple.com/documentation/swiftui/
-  - ios 13.0+
-
 ## Review
 
 - [03-closures-ints-strings](https://github.com/molab-itp/03-closures-ints-strings)
@@ -76,11 +63,14 @@ Prune to 16.4 and 17.2
 
   - Encapsulate view-specific data within your app’s view hierarchy to make your views reusable.
 
-### data modeling
+- [data modeling example code](https://developer.apple.com/documentation/swiftui/managing-model-data-in-your-app)
 
-- [iOS 17 data modeling](https://developer.apple.com/documentation/swiftui/managing-model-data-in-your-app) -->
+### Other App Exampples
 
-<!-- - [monitoring-model-data](https://developer.apple.com/documentation/swiftui/monitoring-model-data-changes-in-your-app) -->
+- [100 days of swiftui - Starting SwiftUI](https://www.hackingwithswift.com/100/swiftui/36) Project7 iExpense Demo App
+
+  - [HackingWithSwift repo](https://github.com/twostraws/HackingWithSwift.git)
+  - [Project7 iExpense](https://github.com/twostraws/HackingWithSwift/tree/main/SwiftUI/project7)
 
 #### the basics
 
@@ -126,22 +116,16 @@ struct BookEditView: View {
 
 ```
 
-### App Exampples
-
-- [Days 16-19 of 100 days of swiftui - Starting SwiftUI](https://www.hackingwithswift.com/100/swiftui) Project1 WeSplit Demo App
-
-  - [HackingWithSwift repo](https://github.com/twostraws/HackingWithSwift.git)
-  - [Project1 WeSplit Demo App source](https://github.com/twostraws/HackingWithSwift/blob/main/SwiftUI/project1/WeSplit/ContentView.swift)
-
 ## Audio State Demo App
+
+- [04-SlideShowDemo](https://github.com/molab-itp/04-SlideShowDemo)
+
+  - audio playback over slide show
 
 - [04-Audio-State-Demo](https://github.com/molab-itp/04-Audio-State-Demo)
 
   - Demonstration of using AVAudioPlayer to play both internal and web based audio files
   - [AVAudioPlayer docs](https://developer.apple.com/documentation/avfaudio/avaudioplayer)
-
-- [04-SlideShowDemo](https://github.com/molab-itp/04-SlideShowDemo)
-  - audio playback over slide show
 
 ## Homework Week04
 
@@ -155,7 +139,9 @@ struct BookEditView: View {
 
 - document your progress and questions on your wiki page
 
-# iOS 16 data modeling
+## Legacy code
+
+### iOS 16 data modeling
 
 - Warning! data modeling updated for iOS 17
 - Projects that use ObservableObject must be updated
@@ -163,7 +149,18 @@ struct BookEditView: View {
 - [iOS 16 data modeling](./04_ObservableObject.md);
 - [Migrating to iOS 17](https://developer.apple.com/documentation/swiftui/migrating-from-the-observable-object-protocol-to-the-observable-macro)
 
-# Final Project Inspiration and Resources
+### UIKit & Storyboard UI
+
+what came before SwiftUI
+
+- https://developer.apple.com/documentation/uikit
+
+  - ios 2.0+
+
+- https://developer.apple.com/documentation/swiftui/
+  - ios 13.0+
+
+## Final Project Inspiration and Resources
 
 - Possible basis and inspiration for final projects
 
