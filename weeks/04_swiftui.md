@@ -18,16 +18,18 @@
 
 - [03-UIGraphics-View](https://github.com/molab-itp/03-UIGraphics-View)
 
+- [03-Canvas-Explore](https://github.com/molab-itp/03-Canvas-Explore)
+
 ## Lab
 
 ### [Week04-Demo](https://github.com/molab-itp/Week04-Demo)
 
-- fix .gitignore
+<!-- - fix .gitignore
 
 ```
 .DS_Store
 **/xcuserdata/
-```
+``` -->
 
 - using the asset catalog
 
