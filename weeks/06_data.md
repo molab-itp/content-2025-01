@@ -28,7 +28,7 @@ Examples of using data, typically stored as JSON, to describe the navigational l
   - [03-ImageUiDemo-2-urls](https://github.com/molab-itp/03-ImageUiDemo-2-urls)
   - renaming and remixing Xcode project | recommended steps
   - [06-Router](https://github.com/molab-itp/06-Router)
-    - Replaces NavigationView with Router PageModel: ObservableObject
+    - Replaces NavigationView with Router @Observable class PageModel
 
 - build BasicNav
   - from Build from Page9 [03-ImageUiDemo-1-symbols](https://github.com/molab-itp/03-ImageUiDemo-1-symbols)
