@@ -23,10 +23,10 @@
 
 ### Preview in XCode
 
-- [05-TimerDemo](https://github.com/molab-itp/05-TimerDemo)
 - [05-AppStorageDemo](https://github.com/molab-itp/05-AppStorageDemo)
 - [05-ImageEditDemo](https://github.com/molab-itp/05-ImageEditDemo)
 - [05-Heart-Shapes](https://github.com/molab-itp/05-Heart-Shapes)
+- [05-TimerDemo](https://github.com/molab-itp/05-TimerDemo)
 
 ## In class exercise
 
