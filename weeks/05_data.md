@@ -35,7 +35,7 @@
   - [05-CustomFont](https://github.com/molab-itp/05-CustomFont)
 
 - build BasicNav
-  - from Build from Page9 [03-ImageUiDemo-1-symbols](https://github.com/molab-itp/03-ImageUiDemo-1-symbols)
+  - copy repo and use Page9 to start BasicNav [03-ImageUiDemo-1-symbols](https://github.com/molab-itp/03-ImageUiDemo-1-symbols)
   - add [03-UIGraphics-View](https://github.com/molab-itp/03-UIGraphics-View)
   - add PlayAudioView from [04-Audio-State-Demo](https://github.com/molab-itp/04-Audio-State-Demo)
 
