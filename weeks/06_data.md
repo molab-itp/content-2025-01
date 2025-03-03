@@ -109,7 +109,6 @@ Download and verify the sample works before investing your time in further resea
 - [AudioKit/Cookbook](https://github.com/AudioKit/Cookbook)
 
 ```
-
 # analyzing open source resources
 
 https://www.youtube.com/watch?v=OoYEYCCJyCA&t=17s
@@ -118,8 +117,12 @@ How to Make a Synth App for iOS with AudioKit | 100 Lines of Code
 https://github.com/NickCulbertson/100-Lines-of-Code-AudioKit-Examples
 >> Disable DunneSamplerExample
 >> Check out AppleSamplerExample
+```
 
-# animation
+## Animation
+
+```
+## animation, it ain't easy
 
 https://medium.com/@artemiusm/how-to-pause-and-resume-animation-in-swiftui-with-chaining-68003517449f
 https://github.com/artemiusmk/MovieClapper
@@ -136,15 +139,19 @@ https://developer.apple.com/videos/play/wwdc2023/10157/
 https://developer.apple.com/videos/play/wwdc2024/10151/
 https://developer.apple.com/documentation/SwiftUI/Creating-visual-effects-with-SwiftUI
 
-## createwithplay
-
-https://createwithplay.com/
-
 ## lottie
 
 https://airbnb.io/lottie/#/
 https://github.com/airbnb/lottie-ios
 
+```
 
+## User Interface tool(s)
+
+```
+
+## createwithplay
+
+https://createwithplay.com/
 
 ```
