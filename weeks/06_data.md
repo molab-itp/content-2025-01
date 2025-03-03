@@ -98,6 +98,7 @@ Sample code is recommend starting point for exploring what's possible for a fina
 Download and verify the sample works before investing your time in further research.
 
 - [WWDC sample code 2024](https://developer.apple.com/sample-code/wwdc/2024/)
+  - AVCam: Building a camera app
 - [WWDC sample code 2023](https://developer.apple.com/sample-code/wwdc/2023/)
 - [WWDC sample code 2022](https://developer.apple.com/sample-code/wwdc/2022/)
 - [WWDC sample code 2021](https://developer.apple.com/sample-code/wwdc/2021/)
@@ -109,11 +110,31 @@ Download and verify the sample works before investing your time in further resea
 
 ```
 
+# analyzing open source resources
+
 https://www.youtube.com/watch?v=OoYEYCCJyCA&t=17s
 How to Make a Synth App for iOS with AudioKit | 100 Lines of Code
 
 https://github.com/NickCulbertson/100-Lines-of-Code-AudioKit-Examples
 >> Disable DunneSamplerExample
 >> Check out AppleSamplerExample
+
+# animation
+
+https://medium.com/@artemiusm/how-to-pause-and-resume-animation-in-swiftui-with-chaining-68003517449f
+https://github.com/artemiusmk/MovieClapper
+https://github.com/jht9629-nyu/MovieClapper
+How to Pause and Resume Animation in SwiftUI (with chaining)
+Artem M -- Nov 22, 2022
+https://medium.com/@artemiusm
+
+[animation repeatforever docs](https://developer.apple.com/documentation/swiftui/animation/repeatforever(autoreverses:))
+
+https://developer.apple.com/documentation/swiftui/controlling-the-timing-and-movements-of-your-animations
+Controlling the timing and movements of your animations
+https://developer.apple.com/videos/play/wwdc2023/10157/
+https://developer.apple.com/videos/play/wwdc2024/10151/
+https://developer.apple.com/documentation/SwiftUI/Creating-visual-effects-with-SwiftUI
+
 
 ```
