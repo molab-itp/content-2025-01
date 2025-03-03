@@ -136,5 +136,15 @@ https://developer.apple.com/videos/play/wwdc2023/10157/
 https://developer.apple.com/videos/play/wwdc2024/10151/
 https://developer.apple.com/documentation/SwiftUI/Creating-visual-effects-with-SwiftUI
 
+## createwithplay
+
+https://createwithplay.com/
+
+## lottie
+
+https://airbnb.io/lottie/#/
+https://github.com/airbnb/lottie-ios
+
+
 
 ```
