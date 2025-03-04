@@ -75,7 +75,8 @@ https://github.com/NickCulbertson/100-Lines-of-Code-AudioKit-Examples
 
 - [animation repeatforever docs](<https://developer.apple.com/documentation/swiftui/animation/repeatforever(autoreverses:)>)
 - [How to Pause and Resume Animation in SwiftUI (with chaining)](https://medium.com/@artemiusm/how-to-pause-and-resume-animation-in-swiftui-with-chaining-68003517449f)
-- [lottie](https://github.com/airbnb/lottie-ios)
+- [airbnb lottie](https://airbnb.io/lottie/#/)
+  - [github lottie ios](https://github.com/airbnb/lottie-ios)
 
 ```
 ## animation,
