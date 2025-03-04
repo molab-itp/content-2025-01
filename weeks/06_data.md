@@ -53,6 +53,81 @@ Examples of using data, typically stored as JSON, to describe the navigational l
   - Generic functions in SaveLoadJSON.swift
   - Examine JSON file using Terminal App
 
+## Evaluating open source resources
+
+### AudioKit
+
+- [AudioKit/Cookbook](https://github.com/AudioKit/Cookbook)
+- [100-Lines-of-Code-AudioKit-Examples](https://github.com/NickCulbertson/100-Lines-of-Code-AudioKit-Examples)
+
+```
+# analyzing open source resources
+
+https://www.youtube.com/watch?v=OoYEYCCJyCA&t=17s
+How to Make a Synth App for iOS with AudioKit | 100 Lines of Code
+
+https://github.com/NickCulbertson/100-Lines-of-Code-AudioKit-Examples
+>> Disable DunneSamplerExample
+>> Check out AppleSamplerExample
+```
+
+### Animation
+
+- [animation repeatforever docs](<https://developer.apple.com/documentation/swiftui/animation/repeatforever(autoreverses:)>)
+- [How to Pause and Resume Animation in SwiftUI (with chaining)](https://medium.com/@artemiusm/how-to-pause-and-resume-animation-in-swiftui-with-chaining-68003517449f)
+- [lottie](https://github.com/airbnb/lottie-ios)
+
+```
+## animation,
+
+>> !!@ it ain't easy
+
+https://medium.com/@artemiusm/how-to-pause-and-resume-animation-in-swiftui-with-chaining-68003517449f
+https://github.com/artemiusmk/MovieClapper
+https://github.com/jht9629-nyu/MovieClapper
+How to Pause and Resume Animation in SwiftUI (with chaining)
+Artem M -- Nov 22, 2022
+https://medium.com/@artemiusm
+
+[animation repeatforever docs](https://developer.apple.com/documentation/swiftui/animation/repeatforever(autoreverses:))
+
+https://developer.apple.com/documentation/swiftui/controlling-the-timing-and-movements-of-your-animations
+Controlling the timing and movements of your animations
+https://developer.apple.com/videos/play/wwdc2023/10157/
+https://developer.apple.com/videos/play/wwdc2024/10151/
+https://developer.apple.com/documentation/SwiftUI/Creating-visual-effects-with-SwiftUI
+
+## lottie
+
+https://airbnb.io/lottie/#/
+https://github.com/airbnb/lottie-ios
+
+Lottie is named after a German film director
+and the foremost pioneer of silhouette animation.
+Her best known films are The Adventures of Prince Achmed (1926)
+– the oldest surviving feature-length animated film,
+preceding Walt Disney's feature-length Snow White
+and the Seven Dwarfs (1937) by over ten years
+https://www.youtube.com/watch?v=LvU55CUw5Ck
+The Art of Lotte Reiniger parte 1
+
+https://www.youtube.com/watch?v=poq0bf6M8Z8
+Cinderella (Aschenputtel) —Lotte Reiniger, Karim Al-Zand
+
+```
+
+### User Interface service(s)
+
+- [createwithplay.com](https://createwithplay.com/)
+
+```
+
+## createwithplay
+
+https://createwithplay.com/
+
+```
+
 ## Homework Week06
 
 - Option 1: continue working on past homework
@@ -103,55 +178,3 @@ Download and verify the sample works before investing your time in further resea
 - [WWDC sample code 2022](https://developer.apple.com/sample-code/wwdc/2022/)
 - [WWDC sample code 2021](https://developer.apple.com/sample-code/wwdc/2021/)
 - [WWDC sample code 2020](https://developer.apple.com/sample-code/wwdc/2020/)
-
-## AudioKit
-
-- [AudioKit/Cookbook](https://github.com/AudioKit/Cookbook)
-
-```
-# analyzing open source resources
-
-https://www.youtube.com/watch?v=OoYEYCCJyCA&t=17s
-How to Make a Synth App for iOS with AudioKit | 100 Lines of Code
-
-https://github.com/NickCulbertson/100-Lines-of-Code-AudioKit-Examples
->> Disable DunneSamplerExample
->> Check out AppleSamplerExample
-```
-
-## Animation
-
-```
-## animation, it ain't easy
-
-https://medium.com/@artemiusm/how-to-pause-and-resume-animation-in-swiftui-with-chaining-68003517449f
-https://github.com/artemiusmk/MovieClapper
-https://github.com/jht9629-nyu/MovieClapper
-How to Pause and Resume Animation in SwiftUI (with chaining)
-Artem M -- Nov 22, 2022
-https://medium.com/@artemiusm
-
-[animation repeatforever docs](https://developer.apple.com/documentation/swiftui/animation/repeatforever(autoreverses:))
-
-https://developer.apple.com/documentation/swiftui/controlling-the-timing-and-movements-of-your-animations
-Controlling the timing and movements of your animations
-https://developer.apple.com/videos/play/wwdc2023/10157/
-https://developer.apple.com/videos/play/wwdc2024/10151/
-https://developer.apple.com/documentation/SwiftUI/Creating-visual-effects-with-SwiftUI
-
-## lottie
-
-https://airbnb.io/lottie/#/
-https://github.com/airbnb/lottie-ios
-
-```
-
-## User Interface service(s)
-
-```
-
-## createwithplay
-
-https://createwithplay.com/
-
-```
