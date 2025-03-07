@@ -23,20 +23,25 @@
   - use AudioDJ as environmentObject so that audio can presists between views
  -->
 
-- [07-PhotoPickBlender](https://github.com/molab-itp/07-PhotoPickBlender)
-
-  - use Vision framework VNGeneratePersonSegmentationRequest to blend two photos
-
-- [07-FaceMesh](https://github.com/molab-itp/07-FaceMesh)
-
-  - Face Mesh with ARKit and SwiftUI
-
 - [07-Instafilter](https://github.com/molab-itp/07-Instafilter)
+
   - A photo manipulation program using Core Image filters
+  - uses PhotosPicker from import PhotosUI
+
   <!-- - [Hacking with iOS: SwiftUI Edition](https://www.hackingwithswift.com/books/ios-swiftui)
   - [Instafilter article](https://www.hackingwithswift.com/books/ios-swiftui/instafilter-introduction)
   - [source repo](https://github.com/twostraws/HackingWithSwift/tree/main/SwiftUI/project13)
   - uses ImagePicker: UIViewControllerRepresentable to access UIKit PHPickerViewController -->
+
+- [07-PhotoPickBlender](https://github.com/molab-itp/07-PhotoPickBlender)
+
+  - use Vision framework VNGeneratePersonSegmentationRequest to blend two photos
+  - using legacy api via UIViewControllerRepresentable
+
+- [07-FaceMesh](https://github.com/molab-itp/07-FaceMesh)
+
+  - Face Mesh with ARKit and SwiftUI
+  - using legacy api via UIViewControllerRepresentable
 
 ### Resources
 
