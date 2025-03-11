@@ -22,14 +22,19 @@
 
 # How to establish global .gitignore file for github.com accouint
 
-touch ~/.gitignore
-git config --global core.excludesfile ~/.gitignore
+# create .gitignore in home directory
 code ~/.gitignore
-
 .DS_Store
-node_modules
 **/xcuserdata/
+node_modules
 
+# verify created
+more .gitignore
+
+# establish global gitigore
+git config --global core.excludesfile ~/.gitignore
+
+# verify settings
 more .gitconfig
 ...
 [user]
