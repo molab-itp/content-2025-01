@@ -160,6 +160,7 @@ Download and verify the sample works before investing your time in further resea
 - [WWDC sample code 2024](https://developer.apple.com/sample-code/wwdc/2024/)
   - [AVCam: Building a camera app](https://developer.apple.com/documentation/avfoundation/avcam-building-a-camera-app)
 - [WWDC sample code 2023](https://developer.apple.com/sample-code/wwdc/2023/)
+  - [Implementing an inline Photos picker](https://developer.apple.com/documentation/photokit/implementing-an-inline-photos-picker)
 - [WWDC sample code 2022](https://developer.apple.com/sample-code/wwdc/2022/)
 - [WWDC sample code 2021](https://developer.apple.com/sample-code/wwdc/2021/)
 - [WWDC sample code 2020](https://developer.apple.com/sample-code/wwdc/2020/)
