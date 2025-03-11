@@ -142,7 +142,7 @@ more .gitconfig
 
 - [Hacking with iOS: SwiftUI Edition](https://www.hackingwithswift.com/books/ios-swiftui/)
 
-  - [source repo](https://github.com/twostraws/HackingWithSwift)
+  - [Hacking with iOS: SwiftUI Edition - github repo](https://github.com/twostraws/HackingWithSwift)
     Follow steps to build app or start with completed app and study to adapt to your needs.
 
 - [Project 8: Moonshot](https://www.hackingwithswift.com/books/ios-swiftui/moonshot-introduction)
