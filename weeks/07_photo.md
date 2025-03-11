@@ -146,11 +146,9 @@ more .gitconfig
     Follow steps to build app or start with completed app and study to adapt to your needs.
 
 - [Project 8: Moonshot](https://www.hackingwithswift.com/books/ios-swiftui/moonshot-introduction)
-- extracted example
-
-  - [jht9629-nyu/Moonshot](https://github.com/jht9629-nyu/Moonshot.git)
-    "Teach users about space history with scroll views"
-    "How can we compose smaller views into larger ones to help keep our project organized?"
+  - "Teach users about space history with scroll views"
+  - "How can we compose smaller views into larger ones to help keep our project organized?"
+  - [extracted example jht9629-nyu/Moonshot](https://github.com/jht9629-nyu/Moonshot.git)
   - [fork jht9629-gmail/Moonshot](https://github.com/jht9629-gmail/Moonshot)
   - [source repo sub directory](https://github.com/twostraws/HackingWithSwift/tree/main/SwiftUI/project8)
 
