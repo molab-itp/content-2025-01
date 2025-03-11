@@ -90,6 +90,11 @@ more .gitconfig
 - [@Observable class - iOS 17](https://developer.apple.com/documentation/swiftui/managing-model-data-in-your-app)
 - [from ObservableObject interface to @Observable macro](https://developer.apple.com/documentation/swiftui/migrating-from-the-observable-object-protocol-to-the-observable-macro)
 
+### hackingwithswift
+
+- [sharing-swiftui-state-with-observable](https://www.hackingwithswift.com/books/ios-swiftui/sharing-swiftui-state-with-observable)
+- [adding-codable-conformance-to-an-observable-class](https://www.hackingwithswift.com/books/ios-swiftui/adding-codable-conformance-to-an-observable-class)
+
 #### Legacy api's - prior to iOS 17
 
 - [What’s the difference between @ObservedObject, @State, and @EnvironmentObject?](https://www.hackingwithswift.com/quick-start/swiftui/whats-the-difference-between-observedobject-state-and-environmentobject)
