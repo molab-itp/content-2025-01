@@ -18,6 +18,14 @@
 
 - [Slide Show Delay](https://github.com/molab-itp/09-SlideShowDelay)
 
+  - slide show with slider for delay
+
+- [CaptureRecorder](https://github.com/jht9629-nyu/CaptureRecorder.git)
+  - apply core image filters to live video stream from camera
+  - record button to save video to Photo library
+  - minminal ObservableObject Model
+  - no need for Combine!
+
 ## Map Demo Apps
 
 - [09-Location](https://github.com/molab-itp/09-Location)
