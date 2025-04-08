@@ -43,6 +43,8 @@
 
 ### Resources
 
+- [10-SpeakUp](https://github.com/molab-itp/10-SpeakUp.git)
+
 - [SwiftUI by Example](https://www.hackingwithswift.com/quick-start/swiftui)
 
 - [Hacking with iOS: SwiftUI Edition](https://www.hackingwithswift.com/books/ios-swiftui)
