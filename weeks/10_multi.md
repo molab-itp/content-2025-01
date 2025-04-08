@@ -61,8 +61,9 @@
 
 - Adam Jonah
 
-  - https://apps.apple.com/us/app/tutto-get-flirty/id6471154924
-    - tuttO - get flirty!
+  <!-- - https://apps.apple.com/us/app/tutto-get-flirty/id6471154924
+    - tuttO - get flirty! -->
+
   - https://apps.apple.com/us/app/big-signal-summon-help-1click/id6472224823
     - BIG SIGNAL: SUMMON HELP 1CLICK
 
