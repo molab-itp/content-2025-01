@@ -107,6 +107,13 @@ This is an in person class, attendance is required.
 
 - [itp-ima class attendance policy](https://itp.nyu.edu/help/itp-ima-class-attendance-policy/)
 
+```
+ITP’s Attendance Policy:
+Students are permitted the following number of absences:
+4 unit – 14 week classes that meet once a week: 2 absences
+Exceeding these unexcused absence guidelines is grounds for automatic failure.
+```
+
 ## Communication
 
 You are responsible for checking your email for important updates about class.
