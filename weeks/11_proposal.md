@@ -21,6 +21,14 @@
 
 - [Ignite - static site builder for Swift developers](https://github.com/twostraws/Ignite)
 
+## Apple Resources Video
+
+- [WWDC24: SwiftUI essentials | Apple](https://www.youtube.com/watch?v=HyQgpxX__-A)
+
+- [WWDC24: A Swift Tour: Explore Swift’s features and design | Apple](https://www.youtube.com/watch?v=boiLzazJ9j4)
+
+- [WWDC24: Xcode essentials | Apple](https://www.youtube.com/watch?v=EN7-6Oj7cL0)
+
 ## Resources
 
 - [99-Flag-Flow](https://github.com/molab-itp/99-Flag-Flow.git)
